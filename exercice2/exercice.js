@@ -1,3 +1,3 @@
-$("selector").event(function(){
+$("p").on("dblclick", function(){
     $(this).hide();
 });
